@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**3landero/3landero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Welcome!  ⚡
 
-Here are some ideas to get you started:
+I'm Ramses Landero, from Mexico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nowadays i'm an aspiring software developer, 🌱 in continous learning, right now my main tech interests are Python and Javascript, incluiding their frameworks
+
+I would be very proud if i can collaborate with you, i'm very hungry of knowledge and experience.
+
+You can get in touch at = {
+
+      Email       📧  : 27landero@gmail.com,  
+      Whatsapp    📱  : +52 9931698000,
+      LinkedIn    💼  : https://www.linkedin.com/in/3ramses
+        
+        }
+        
+        
+Thanks ! 
