@@ -9,10 +9,12 @@ I would be very proud if i can collaborate with you, i'm very hungry of knowledg
 
 You can get in touch at  
 
-      Email       📧  : 27landero@gmail.com  
-      Whatsapp    📱  : +52 9931698000
-      LinkedIn    💼  : https://www.linkedin.com/in/3ramses
+      Website        💻: https://33ramses.tk/
+      Email          📧: 27landero@gmail.com  
+      Whatsapp       📱: +52 9931698000
+      LinkedIn       💼: https://www.linkedin.com/in/3ramses
+      Personal notes 📓: https://chief-stoat-7e3.notion.site/Developing-75fc6b656b9140f992e742a74d9ca572
         
        
         
-Thanks ! 
+Greetings ! 
